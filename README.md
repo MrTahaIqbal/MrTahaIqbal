@@ -9,7 +9,7 @@ high-performance engineering and AI safety.
 
 I use AI as a precision instrument — directing architecture, making 
 design decisions, and rigorously debugging until the system behaves 
-exactly as specified. This is not vibe coding. Every decision in my 
+exactly as specified.Every decision in my 
 systems has a reason I can defend.
 
 **TQC — Three-Component Quantitative Trading System**
