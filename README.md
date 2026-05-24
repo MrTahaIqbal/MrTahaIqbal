@@ -10,7 +10,7 @@ high-performance engineering and AI safety.
 I use AI as a precision instrument — directing architecture, making 
 design decisions, and rigorously debugging until the system behaves 
 exactly as specified.Every decision in my 
-systems has a reason I can defend.My main language is python I have converted this system to c++ and user are free to analysis of any bugs and can email at tahaiqbal773@gmail.com thanks
+systems has a reason I can defend.
 
 **TQC — Three-Component Quantitative Trading System**
 - **Engine**: C++20 with lock-free MPSC ring buffer, thread-local 
