@@ -1,7 +1,6 @@
 # Taha Iqbal
 
-**AI-augmented systems researcher** building at the intersection of 
-high-performance engineering and AI safety.
+"Independent AI Safety Researcher — Systems Architect of TQC — Mechanistic Interpretability and AI Forecasting"
 
 ---
 
