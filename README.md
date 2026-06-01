@@ -1,6 +1,6 @@
 # Taha Iqbal
 
-"Independent AI Safety Researcher — Systems Architect of TQC — Mechanistic Interpretability and AI Forecasting"
+"Independent AI Safety Researcher — Systems Architect of TQC — Governance and Policy and AI Forecasting"
 
 ---
 
