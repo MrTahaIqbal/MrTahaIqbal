@@ -26,31 +26,18 @@ approximation of them.
 
 ---
 
-## Where I Am Going
+Where This Is Going
+This platform is designed to evolve. Near-term goals include establishing a systematic paper review pipeline covering the core AI safety and governance literature, a forecasting section with explicit resolution criteria, and deeper governance analysis of the international AI regulatory landscape.
 
-**Mechanistic interpretability** — the study of how transformer circuits 
-implement algorithms internally.
+The long-term goal is to contribute to governance frameworks that are technically grounded, institutionally realistic, and adequate to the risk profile of advanced AI systems. This requires both the technical analysis done here and engagement with policymakers — which is the next phase of this work.
 
-Currently working through:
-- Karpathy: Neural Networks Zero to Hero
-- Elhage et al: A Mathematical Framework for Transformer Circuits
-- Neel Nanda: TransformerLens tutorials
-- Olsson et al: In-Context Learning and Induction Heads
 
-Active on the Alignment Forum. First research notes: [link when published]
+
+
 
 ---
 
-## Why This Combination
 
-The same instinct that drives me to find exactly why a lock-free queue 
-misbehaves under concurrent load is the instinct mechanistic 
-interpretability requires: precise hypothesis, controlled experiment, 
-honest result. The field is not looking for people who can write Python. 
-It is looking for people who can think about what is actually happening 
-inside a system.
-
----
 
 📧 tahaiqbal773@gmail.com
 ```
